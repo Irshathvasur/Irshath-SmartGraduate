@@ -1,6 +1,7 @@
 #include<stdio.h>
 
-int main(){
+int main()
+{
     float num1=2.34;
     double num2=234.332;
     printf("Number1=%0.2f",num1);
